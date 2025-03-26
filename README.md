@@ -1,4 +1,5 @@
 # ASL Gesture Recognition
+Hi, this is one of the first projects i did when learning computer vision in Python. Sorry if it is a bit messy but I was new to this.
 
 This project detects American Sign Language (ASL) letters using a deep learning model. The project contains scripts for training the model, collecting training data, and recognizing gestures using a webcam.
 
